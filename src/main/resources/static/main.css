@@ -515,7 +515,7 @@ object {
  * Constrain images and videos to the parent width and preserve
  * their instrinsic aspect ratio.
  *
- * https://github.com/idevs/cssremedy/issues/14
+ * https://github.com/mozdevs/cssremedy/issues/14
  */
 
 img,
